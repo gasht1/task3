@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": 999,
+    "image": " /images/iphone13.webp"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S21",
+    "brand": "Samsung",
+    "price": 799,
+    "image": "/images/Galaxy S21.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 6",
+    "brand": "Tecno",
+    "price": 599,
+    "image": "/images/iPhone 13.jpg "
+  }
+]
